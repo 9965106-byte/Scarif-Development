@@ -15,4 +15,4 @@ services:
       - DB_NAME=telemetry_db
       - DB_USER=student_user
       - DB_PASSWORD=Password123!
-    restart: unless-stopped
+    restart: unless-stopped 
